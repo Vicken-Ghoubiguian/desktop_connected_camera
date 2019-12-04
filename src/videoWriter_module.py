@@ -16,11 +16,9 @@ def initialisation_of_videoWriter_function(desired_title, desired_format, desire
 
 		mixer.music.play()
 
-		if desired_format in fourcc_list:
+		fourcc = cv2.VideoWriter_fourcc(*fourcc_list[desired_format])
 
-			fourcc = cv2.VideoWriter_fourcc(*fourcc_list[desired_format])
-
-			return cv2.VideoWriter(desired_title + desired_format, fourcc, 20.0, (640,480))
+		return cv2.VideoWriter(desired_title + desired_format, fourcc, 20.0, (640,480))
 
 	else:
 
