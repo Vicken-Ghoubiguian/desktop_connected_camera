@@ -9,14 +9,76 @@
 [décembre 02, 2019 at 12:31]: Photo shooted
 -------------------------------------
 -------------------------------------
-[décembre 03, 2019 at 04:55]: Beginning of video shooting
-[décembre 03, 2019 at 04:55]: End of video shooting
+[décembre 03, 2019 at 01:06]: Photo shooted
+[décembre 03, 2019 at 01:06]: Photo shooted
 -------------------------------------
 -------------------------------------
-[décembre 05, 2019 at 08:17]: Enable eyes detection
-[décembre 05, 2019 at 08:17]: Disable eyes detection
+[décembre 03, 2019 at 03:37]: Enable facial detection
+[décembre 03, 2019 at 03:37]: Disable facial detection
+[décembre 03, 2019 at 03:37]: Enable facial detection
 -------------------------------------
 -------------------------------------
-[décembre 05, 2019 at 08:21]: Enable tree eye glasses detection
-[décembre 05, 2019 at 08:21]: Disable tree eye glasses detection
+[décembre 03, 2019 at 03:38]: Enable facial detection
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+[décembre 03, 2019 at 04:38]: Beginning of video shooting
+[décembre 03, 2019 at 04:38]: End of video shooting
+-------------------------------------
+-------------------------------------
+[décembre 03, 2019 at 04:38]: Beginning of video shooting
+[décembre 03, 2019 at 04:38]: Enable facial detection
+[décembre 03, 2019 at 04:38]: End of video shooting
+-------------------------------------
+-------------------------------------
+[décembre 04, 2019 at 07:55]: Enable eyes detection
+[décembre 04, 2019 at 07:55]: Disable eyes detection
+-------------------------------------
+-------------------------------------
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+-------------------------------------
+-------------------------------------
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:00]: Enable tree eye glasses detection
+-------------------------------------
+-------------------------------------
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:02]: Enable tree eye glasses detection
+-------------------------------------
+-------------------------------------
+[décembre 04, 2019 at 01:04]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:04]: Disable tree eye glasses detection
+[décembre 04, 2019 at 01:04]: Enable tree eye glasses detection
+[décembre 04, 2019 at 01:04]: Disable tree eye glasses detection
+-------------------------------------
+-------------------------------------
+[décembre 05, 2019 at 09:35]: Enable profile face detection
+[décembre 05, 2019 at 09:35]: Beginning of video shooting
+[décembre 05, 2019 at 09:35]: End of video shooting
+-------------------------------------
+-------------------------------------
+[décembre 06, 2019 at 08:00]: Enable facial detection
+-------------------------------------
+-------------------------------------
+[décembre 06, 2019 at 08:19]: Activation of edge detection mode
 -------------------------------------
