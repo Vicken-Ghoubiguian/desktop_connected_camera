@@ -9,7 +9,7 @@
 5. [How does this project work ?]()
 6. [How to use it ?]()
 7. [A few examples]()
-8. [Useful links]()
+8. [Useful links](#useful_links)
 9. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
@@ -19,6 +19,9 @@
 ## Presentation
 
 This project is a fork of the connected camera project's software core.
+
+<a name="useful_links"></a>
+## Useful links
 
 <a name="conclusion"></a>
 ## Conclusion
