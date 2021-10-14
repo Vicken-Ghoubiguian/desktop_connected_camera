@@ -10,7 +10,7 @@
 6. [How to use it ?]()
 7. [A few examples]()
 8. [Useful links]()
-9. [Conclusion]()
+9. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
 ## Introduction
@@ -20,7 +20,8 @@
 
 This project is a fork of the connected camera project's software core.
 
-
+<a name="conclusion"></a>
+## Conclusion
 
 It's a project specifically for linux distributions:
 
