@@ -38,4 +38,4 @@ Default values for these parameters are:
 1. `-photo_format`: Store the photo format informed by the user
   default value: `'.jpg'`.
 
-Warning: This application launchs only on python3.
+__Warning:__ This application launchs only on python3.
