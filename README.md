@@ -4,11 +4,11 @@
 
 1. [Introduction](#introduction)
 2. [Presentation](#presentation)
-3. [Project's structure]()
-4. [How was this project developed ?]()
-5. [How does this project work ?]()
-6. [How to use it ?]()
-7. [A few examples]()
+3. [Project's structure](#project_s_structure)
+4. [How was this project developed ?](#how_was_this_project_developed)
+5. [How does this project work ?](#how_does_this_project_work)
+6. [How to use it ?](#how_to_use_it)
+7. [A few examples](#a_few_examples)
 8. [Useful links](#useful_links)
 9. [Conclusion](#conclusion)
 
@@ -17,6 +17,21 @@
 
 <a name="presentation"></a>
 ## Presentation
+
+<a name="project_s_structure"></a>
+## Project's structure
+
+<a name="how_was_this_project_developed"></a>
+## How was this project developed ?
+
+<a name="How does this project work ?"></a>
+## How does this project work ?
+
+<a name="how_to_use_it"></a>
+## How to use it ?
+
+<a name="a_few_examples"></a>
+## A few examples
 
 This project is a fork of the connected camera project's software core.
 
