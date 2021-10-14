@@ -2,8 +2,8 @@
 
 ## Contents
 
-1. [Introduction]()
-2. [Presentation]()
+1. [Introduction](#introduction)
+2. [Presentation](#presentation)
 3. [Project's structure]()
 4. [How was this project developed ?]()
 5. [How does this project work ?]()
@@ -11,6 +11,9 @@
 7. [A few examples]()
 8. [Useful links]()
 9. [Conclusion]()
+
+<a name="introduction"></a>
+## Introduction
 
 <a name="presentation"></a>
 ## Presentation
