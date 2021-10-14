@@ -12,7 +12,12 @@
 8. [Useful links]()
 9. [Conclusion]()
 
+<a name="presentation"></a>
+## Presentation
+
 This project is a fork of the connected camera project's software core.
+
+
 
 It's a project specifically for linux distributions:
 
