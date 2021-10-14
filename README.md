@@ -22,7 +22,9 @@ To use this application, follow this steps:
 
 1. go to the desktop_connected_camera from where you clone this repository, by using this command: cd desktop_connected_camera,
 
-1. inside the desktop_connected_camera, run the main.py script using this following command: `python3 main.py -output_video_name desired_video_name -output_video_format desired_video_format -photo_name desired_photo_name -photo_format desired_photo_format`
+1. inside the desktop_connected_camera, run the main.py script using this following command:
+
+`python3 main.py -output_video_name desired_video_name -output_video_format desired_video_format -photo_name desired_photo_name -photo_format desired_photo_format`
 
 Default values for these parameters are:
 
