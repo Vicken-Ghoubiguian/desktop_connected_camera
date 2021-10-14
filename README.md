@@ -24,7 +24,7 @@
 <a name="how_was_this_project_developed"></a>
 ## How was this project developed ?
 
-<a name="How does this project work ?"></a>
+<a name="how_does_this_project_work"></a>
 ## How does this project work ?
 
 <a name="how_to_use_it"></a>
