@@ -18,6 +18,8 @@
 <a name="presentation"></a>
 ## Presentation
 
+This project is a fork of the [connected camera project](https://github.com/Vicken-Ghoubiguian/connected_camera)'s developed-in-Python software core.
+
 <a name="project_s_structure"></a>
 ## Project's structure
 
@@ -32,8 +34,6 @@
 
 <a name="a_few_examples"></a>
 ## A few examples
-
-This project is a fork of the connected camera project's software core.
 
 <a name="useful_links"></a>
 ## Useful links
