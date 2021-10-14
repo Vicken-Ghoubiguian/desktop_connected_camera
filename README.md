@@ -1,3 +1,7 @@
+# desktop_connected_camera
+
+## Contents
+
 This project is a fork of the connected camera project's software core.
 
 It's a project specifically for linux distributions:
